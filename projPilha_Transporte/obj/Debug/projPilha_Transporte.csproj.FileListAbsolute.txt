@@ -1,0 +1,7 @@
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\obj\Debug\projPilha_Transporte.csprojAssemblyReference.cache
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\obj\Debug\projPilha_Transporte.csproj.CoreCompileInputs.cache
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\bin\Debug\projPilha_Transporte.exe.config
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\bin\Debug\projPilha_Transporte.exe
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\bin\Debug\projPilha_Transporte.pdb
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\obj\Debug\projPilha_Transporte.exe
+E:\facul\ADS471\ED2\projPilha_Transporte\projPilha_Transporte\obj\Debug\projPilha_Transporte.pdb
